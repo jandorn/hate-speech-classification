@@ -40,3 +40,5 @@ The `train.tsv` file is our dataset used for training. It has a collection of ov
 The `test.tsv.dist` file is our evaluation or testing set. These tweets consisting of almost **5000 tweets** are not labeled and are to be predicted by our different trained models. Unfortunately we dont have access to the corresponding dataset with the actual labels. We do know, that our SVM labeled them correctly with a success rate of about _~94%_.
 
 ## Authors
+
+This was a group project done as undergraduate students at the Karlsruhe Institute of Technology (KIT) as a bonus for the lecture 'Introduction to Artificial Intelligence' in January of 2022 by _Jan Bode_ and _Jan Dorn_. Standard MIT License is applied.
